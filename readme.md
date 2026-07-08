@@ -39,7 +39,7 @@ The dataset used in this project is hosted on Kaggle due to GitHub's 100 MB file
 
 You can download it here:
 
-**Kaggle Dataset:** https://www.kaggle.com/your-username/your-dataset
+**Kaggle Dataset:** https://www.kaggle.com/datasets/pandyaparam/zomato-rawdata-geo-data
 
 After downloading, place the SQLite database in the project root (or the `data/` folder, depending on your project structure).
 
