@@ -8,7 +8,7 @@
 An end-to-end Exploratory Data Analysis (EDA) project on the Zomato Bangalore restaurant dataset using SQL, Python, Natural Language Processing (NLP), and Geospatial Analysis.
 </p>
 
-<img src="screenshots/HeatMap Bengaluru.JPG" width="900"/>
+<img src="screenshot/HeatMap Bengaluru.JPG" width="900"/>
 
 </div>
 
