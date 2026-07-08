@@ -91,7 +91,7 @@ zomato-geospatial-nlp-analysis/
 │   └── HeatMap Bengaluru.JPG
 │
 ├── zomato-geographical.ipynb
-├── zomato_rawdata.sqlite
+├── zomato_rawdata.sqlite(After Downloading from Kaggle)
 ├── requirements.txt
 ├── LICENSE
 └── README.md
