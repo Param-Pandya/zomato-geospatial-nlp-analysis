@@ -5,8 +5,12 @@
 ### SQL • Python • NLP • Geospatial Visualization • Business Intelligence
 
 <p>
-An end-to-end Exploratory Data Analysis (EDA) project on the Zomato Bangalore restaurant dataset using SQL, Python, Natural Language Processing (NLP), and Geospatial Analysis.
+End-to-end restaurant analytics project using SQL, Python, Natural Language Processing (NLP), and geospatial visualization to uncover customer behavior, restaurant trends, and business insights from the Zomato Bangalore dataset.
 </p>
+
+**⭐ MIT License &nbsp;&nbsp; 🐍 Python &nbsp;&nbsp; 📊 Data Analysis &nbsp;&nbsp; 🗺️ Geospatial Analytics**
+
+<br>
 
 <img src="Screenshot/HeatMap Bengaluru.JPG" width="900"/>
 
@@ -50,7 +54,7 @@ After downloading, place the SQLite database in the project root (or the `data/`
 <table>
 <tr>
 <td><b>Language</b></td>
-<td>Python</td>
+<td>Python 3.11</td>
 </tr>
 
 <tr>
@@ -87,12 +91,12 @@ After downloading, place the SQLite database in the project root (or the `data/`
 ```text
 zomato-geospatial-nlp-analysis/
 │
-├── screenshots/
+├── Screenshot/
 │   └── HeatMap Bengaluru.JPG
 │
-├── zomato-geographical.ipynb
+├── Zomato_Geospatial_NLP_Analysis.ipynb
 ├── zomato_rawdata.sqlite(After Downloading from Kaggle)
-├── requirements.txt
+├── requirements.txtf
 ├── LICENSE
 └── README.md
 ```
