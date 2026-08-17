@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🍽️ Zomato Geospatial & NLP Analysis
-
+ 
 ### SQL • Python • NLP • Geospatial Visualization • Business Intelligence
 
 <p>
