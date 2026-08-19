@@ -6,6 +6,7 @@
 
 <p>
 End-to-end restaurant analytics project using SQL, Python, Natural Language Processing (NLP), and geospatial visualization to uncover customer behavior, restaurant trends, and business insights from the Zomato Bangalore dataset.
+
 </p>
 
 **⭐ MIT License &nbsp;&nbsp; 🐍 Python &nbsp;&nbsp; 📊 Data Analysis &nbsp;&nbsp; 🗺️ Geospatial Analytics**
